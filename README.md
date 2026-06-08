@@ -3,33 +3,32 @@ Technical Customer Success Specialist | SaaS Troubleshooting | Onboarding & Work
 
 Core Skills
 
-SaaS Troubleshooting & Root‑Cause Analysis,
+SaaS Troubleshooting & Root‑Cause Analysis
+Workflow Automation & Optimization
 
-Workflow Automation & Optimization,
+Authentication & Access Support (SSO, MFA, Permissions)
 
-Authentication & Access Support (SSO, MFA, Permissions),
+SQL Data Validation & Record Accuracy
 
-SQL Data Validation & Record Accuracy,
+API Basics & Log Interpretation
 
-API Basics & Log Interpretation,
+CRM Systems: Salesforce, Zendesk
 
-CRM Systems: Salesforce, Zendesk,
+Technical Customer Success & Onboarding
 
-Technical Customer Success & Onboarding,
+Privacy, Security & Compliance Handling (HIPAA, PII, Federal)
 
-Privacy, Security & Compliance Handling (HIPAA, PII, Federal),
+Remote Multi‑Channel Support (Phone, Email, Chat)
 
-Remote Multi‑Channel Support (Phone, Email, Chat),
+Record Correction & Data Quality Management
 
-Record Correction & Data Quality Management,
+Issue Resolution & Ticket Management
 
-Issue Resolution & Ticket Management,
+Workflow Auditing & Permission Review
 
-Workflow Auditing & Permission Review,
+Identity Verification & Secure Access Handling
 
-Identity Verification & Secure Access Handling,
-
-Customer Communication & Trauma‑Informed Support,
+Customer Communication & Trauma‑Informed Support
 
 Compliance Documentation & Case Documentation
 
