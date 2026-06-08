@@ -1,5 +1,5 @@
 # Hi, I'm Tammy Iliff 
-Technical Customer Success Specialist | SaaS Troubleshooting | Onboarding & Workflow Optimization
+Technical Customer Success Specialist | SaaS Troubleshooting | Onboarding & Workflow Optimization | 100% Remote
 
 CORE SKILLS
 
