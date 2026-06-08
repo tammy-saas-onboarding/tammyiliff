@@ -3,41 +3,27 @@ Technical Customer Success Specialist | SaaS Troubleshooting | Onboarding & Work
 
 Core Skills
 
-SaaS Troubleshooting & Root‑Cause Analysis
-Workflow Automation & Optimization
-
-Authentication & Access Support (SSO, MFA, Permissions)
-
-SQL Data Validation & Record Accuracy
-
-API Basics & Log Interpretation
-
-CRM Systems: Salesforce, Zendesk
-
-Technical Customer Success & Onboarding
-
-Privacy, Security & Compliance Handling (HIPAA, PII, Federal)
-
-Remote Multi‑Channel Support (Phone, Email, Chat)
-
-Record Correction & Data Quality Management
-
-Issue Resolution & Ticket Management
-
-Workflow Auditing & Permission Review
-
-Identity Verification & Secure Access Handling
-
-Customer Communication & Trauma‑Informed Support
-
-Compliance Documentation & Case Documentation
+SaaS Troubleshooting & Root‑Cause Analysis, 
+Workflow Automation & Optimization, 
+Authentication & Access Support (SSO, MFA, Permissions), 
+SQL Data Validation & Record Accuracy, 
+API Basics & Log Interpretation, 
+CRM Systems: Salesforce, Zendesk, 
+Technical Customer Success & Onboarding, 
+Privacy, Security & Compliance Handling (HIPAA, PII, Federal), 
+Remote Multi‑Channel Support (Phone, Email, Chat), 
+Record Correction & Data Quality Management, 
+Issue Resolution & Ticket Management, 
+Workflow Auditing & Permission Review, 
+Identity Verification & Secure Access Handling, 
+Customer Communication & Trauma‑Informed Support, 
+Compliance Documentation & Case Documentation, 
 
 Featured Projects
 
 Onboarding Workflow Optimization — Ascensus (2026)  
 
 Redesigned onboarding steps, clarified setup instructions, and aligned workflows with 
-
 product and onboarding teams, reducing onboarding‑related support tickets by 18%.
 
 CRM Permission Audit & Configuration Cleanup — Ascensus (2026)  
