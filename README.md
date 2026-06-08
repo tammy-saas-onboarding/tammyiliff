@@ -1,7 +1,7 @@
 # Hi, I'm Tammy Iliff 👋
 Technical Customer Success Specialist | SaaS Troubleshooting | Onboarding & Workflow Optimization
 
-Core Skills
+CORE SKILLS
 
 - SaaS Troubleshooting & Root‑Cause Analysis
 - Workflow Automation & Optimization
@@ -19,7 +19,7 @@ Core Skills
 - Customer Communication & Trauma‑Informed Support
 - Compliance Documentation & Case Documentation
 
-Featured Projects
+FEATURED PROJECTS
 
 Onboarding Workflow Optimization — Ascensus (2026)  
 - Redesigned onboarding steps, clarified setup instructions, and aligned workflows with 
@@ -30,7 +30,7 @@ Identified misconfigured CRM permissions causing authentication failures; execut
 Reorganized FEMA onboarding and verification workflows, improving survivor 
 follow‑through and reducing response times by 20%.
 
-Links
+LINKS
 
 - LinkedIn: linkedin.com/in/tammyiliff
 - Portfolio: notion.so/tammy-iliff-portfolio
