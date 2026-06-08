@@ -1,4 +1,4 @@
-# Hi, I'm Tammy Iliff 👋
+# Hi, I'm Tammy Iliff 
 Technical Customer Success Specialist | SaaS Troubleshooting | Onboarding & Workflow Optimization
 
 CORE SKILLS
