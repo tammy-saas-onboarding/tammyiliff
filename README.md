@@ -3,8 +3,8 @@ Technical Customer Success Specialist | SaaS Troubleshooting | Onboarding & Work
 
 Core Skills
 
-SaaS Troubleshooting & Root‑Cause Analysis, 
-Workflow Automation & Optimization, 
+- SaaS Troubleshooting & Root‑Cause Analysis, 
+- Workflow Automation & Optimization, 
 Authentication & Access Support (SSO, MFA, Permissions), 
 SQL Data Validation & Record Accuracy, 
 API Basics & Log Interpretation, 
